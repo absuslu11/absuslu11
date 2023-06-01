@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ahmet Burak Suslu
-- 👀 I’m interested in Power BI 
-- 🌱 I’m currently learning MySQL
-- 💞️ I’m looking to collaborate on SQL projects
+- 👀 I’m interested in Web Developement
+- 🌱 I’m currently learning html, css, js
+- 💞️ I’m looking to collaborate on SQL web projects
 - 📫 contact me via my personal email absuslu9@gmail.com
 
 <!---
