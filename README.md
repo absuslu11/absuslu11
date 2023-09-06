@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Ahmet Burak Suslu
-- 👀 I’m interested in Web Developement
-- 🌱 I’m currently learning html, css, js
-- 💞️ I’m looking to collaborate on SQL web projects
-- 📫 contact me via my personal email absuslu9@gmail.com
+- 👀 I’m interested in Cybersecurity
+- 🌱 I’m currently learning Python and JS
+- 💞️ I’m looking to collaborate on Cybersecurity Projects
+- 📫 Contact me via my personal email absuslu9@gmail.com
 
 <!---
 absuslu11/absuslu11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
